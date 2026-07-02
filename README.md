@@ -24,7 +24,7 @@ A terminal-based HTTP API client (like Postman, but in your terminal) — built 
 Requires Go 1.25+.
 
 ```bash
-git clone https://github.com/<you>/leanapi.git
+git clone https://github.com/dylanjnsn02/leanapi.git
 cd leanapi
 go build -o leanapi ./cmd/leanapi
 ./leanapi
