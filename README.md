@@ -64,7 +64,7 @@ go run ./cmd/leanapi
 
 Inside the history view: `↑`/`↓` or `j`/`k` to select, `Enter` to reload a past request into the builder, `Esc` to close.
 
-[insert screenshot here]
+![History demo](https://raw.githubusercontent.com/dylanjnsn02/leanapi/refs/heads/main/images/gif2.gif)
 
 ## Project layout
 
