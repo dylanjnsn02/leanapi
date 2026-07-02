@@ -2,7 +2,7 @@
 
 A terminal-based HTTP API client (like Postman, but in your terminal) — built in Go with [Bubble Tea](https://github.com/charmbracelet/bubbletea). Mouse-clickable UI for building requests with query params, headers, cookies, auth (Basic/Bearer/API Key), and a body editor, plus pretty-printed/syntax-highlighted JSON responses and persistent request history.
 
-[insert screenshot here]
+![App image](https://raw.githubusercontent.com/dylanjnsn02/leanapi/refs/heads/main/images/Screenshot.png)
 
 ## Features
 
@@ -17,7 +17,7 @@ A terminal-based HTTP API client (like Postman, but in your terminal) — built 
 - **Copy to clipboard** — copy whichever response view (Body/Headers/Cookies) is active with one click or a keypress.
 - **Persistent history** — every request/response is logged locally and can be browsed and reloaded back into the builder.
 
-[insert screenshot here]
+![App demo](https://raw.githubusercontent.com/dylanjnsn02/leanapi/refs/heads/main/images/gif.gif)
 
 ## Installation
 
