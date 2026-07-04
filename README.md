@@ -4,7 +4,7 @@ A terminal-based HTTP API client (like Postman, but in your terminal) — built 
 
 ![App image](https://raw.githubusercontent.com/dylanjnsn02/leanapi/refs/heads/main/images/Screenshot.png)
 
-A leaner version, no-TUI version here [leanapi_lite](https://github.com/dylanjnsn02/leanapi_lite).
+A leaner version, no-TUI version here [leanapi_lite](https://github.com/dylanjnsn02/leanapi_lite)
 
 ## Features
 
