@@ -21,6 +21,24 @@ A terminal-based HTTP API client (like Postman, but in your terminal) — built 
 
 ## Installation
 
+### Quick install (macOS/Linux)
+
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/dylanjnsn02/leanapi/main/install.sh | sh
+```
+
+This downloads the right binary for your OS/architecture from the [latest release](https://github.com/dylanjnsn02/leanapi/releases/latest) and installs it as `leanapi` in `$HOME/.local/bin` (no `sudo` required). If that directory isn't already on your `PATH`, the script will tell you what to add.
+
+To install elsewhere, e.g. system-wide:
+
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/dylanjnsn02/leanapi/main/install.sh | INSTALL_DIR=/usr/local/bin sh
+```
+
+Windows: grab `leanapi-windows-amd64.exe` directly from the [releases page](https://github.com/dylanjnsn02/leanapi/releases/latest).
+
+### Build from source
+
 Requires Go 1.25+.
 
 ```bash
